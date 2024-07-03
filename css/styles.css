@@ -1,0 +1,23 @@
+body {
+    padding-top: 56px;
+}
+
+.carousel-item {
+    height: 65vh;
+    background-color: #777;
+    color: white;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+}
+
+.carousel-caption {
+    bottom: 20%;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+    position: relative;
+    width: 100%;
+}
